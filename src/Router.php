@@ -20,27 +20,35 @@ class Router
 
     public function checkRoute()
     {
-        if (isset($this->routes[$this->requestUri])) {
-            var_dump($this->routes[$this->requestUri]);
-            $this->callFunction();
+        preg_match('/\d+/', $this->requestUri, $idNr);
+        $link = $this->requestUri;
+
+        $impart=explode("/", $link);
+
+        $newLink=str_replace($impart[2], "{id}",$link);
+        if (isset($this->routes[$newLink])) {
+            if($idNr) {
+                $this->callFunction($newLink, $idNr);
+            }else {
+                var_dump($this->routes[$this->requestUri]);
+                $this->callFunction($this->requestUri);
+            }
         } else {
             echo "not found";
         }
     }
 
-    public function callFunction($fragment=null, $id=null)
+    public function callFunction($newLink, $id=null)
     {
-        $numeController=$this->routes[$this->requestUri]["controller"];
-        $numeActiune=$this->routes[$this->requestUri]["action"];
+        $numeController=$this->routes[$newLink]["controller"];
+        $numeActiune=$this->routes[$newLink]["action"];
 
 
         require_once "../app/controllers/".$numeController.".php";
 
-        preg_match('/\d+/', $fragment, $id);
+        $pageController = new $numeController();
+        $pageController->$numeActiune($id);
 
-
-        $pageController=new $numeController();
-        $pageController->$numeActiune();
     }
 
 

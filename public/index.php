@@ -20,5 +20,3 @@ $requestUri=$_SERVER["REQUEST_URI"];
 
 $router=new Router($routes,$requestUri);
 $router->checkRoute();
-
-//commit smth

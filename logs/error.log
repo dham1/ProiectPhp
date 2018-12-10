@@ -1,0 +1,28 @@
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP Warning:  require_once(../app/controllers/UserController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 47
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP Stack trace:
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   3. Router->callFunction($newLink = *uninitialized*, $id = *uninitialized*) C:\xampp\htdocs\ProiectPhp\src\Router.php:31
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/UserController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 47
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP Stack trace:
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22
+[03-Dec-2018 10:44:51 Europe/Berlin] PHP   3. Router->callFunction($newLink = *uninitialized*, $id = *uninitialized*) C:\xampp\htdocs\ProiectPhp\src\Router.php:31
+[03-Dec-2018 10:44:52 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[03-Dec-2018 10:44:52 Europe/Berlin] PHP Stack trace:
+[03-Dec-2018 10:44:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[03-Dec-2018 10:44:52 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22
+[03-Dec-2018 10:48:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method UserController::showAction() in C:\xampp\htdocs\ProiectPhp\src\Router.php:50
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(31): Router->callFunction('/user/{id}', Array)
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(22): Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 50
+[03-Dec-2018 10:48:26 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[03-Dec-2018 10:48:26 Europe/Berlin] PHP Stack trace:
+[03-Dec-2018 10:48:26 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[03-Dec-2018 10:48:26 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22
+[03-Dec-2018 10:48:49 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[03-Dec-2018 10:48:49 Europe/Berlin] PHP Stack trace:
+[03-Dec-2018 10:48:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[03-Dec-2018 10:48:49 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22

@@ -6,5 +6,5 @@
  * Time: 11:27 AM
  */
 $config=[
-    "env" => "prod",
+    "env" => "dev",
 ];
