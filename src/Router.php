@@ -37,7 +37,7 @@ class Router
             echo "not found";
         }
     }
-
+//dd
     public function callFunction($newLink, $id=null)
     {
         $numeController=$this->routes[$newLink]["controller"];
