@@ -6,8 +6,12 @@
  * Time: 10:39 AM
  */
 require_once "../app/config.php";
-require_once "../src/Router.php";
 require_once "../app/routes.php";
+require __DIR__.'/../vendor/autoload.php';
+//require_once "../app/controllers/UserController.php";
+//require_once "../app/controllers/PageController.php";
+
+use \Framework\Router;
 
 ini_set("display_errors", 0);
 ini_set("error_log", __DIR__."/../logs/error.log");
@@ -17,6 +21,12 @@ if($config["env"]=="dev"){
     error_reporting(E_ALL);
 }
 $requestUri=$_SERVER["REQUEST_URI"];
+$queryString= $_SERVER['QUERY_STRING'];
 
-$router=new Router($routes,$requestUri);
+
+//Pentu Request_URI
+$router=new Router($routes,$requestUri,$queryString);
 $router->checkRoute();
+
+
+//DIANA's Commit

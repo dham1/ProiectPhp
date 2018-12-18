@@ -26,3 +26,371 @@ Stack trace:
 [03-Dec-2018 10:48:49 Europe/Berlin] PHP Stack trace:
 [03-Dec-2018 10:48:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
 [03-Dec-2018 10:48:49 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:22
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:30:36 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:30:37 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:30:37 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:38 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:39 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:49 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:49 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:50 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:54 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:54 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:54 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:31:55 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:31:55 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:31:55 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:31:55 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:00 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:00 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:00 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:00 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:01 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:01 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:01 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:17 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:32:17 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:17 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:17 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:32:24 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:04 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:43:10 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:10 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:10 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 28
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:43:11 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[10-Dec-2018 09:48:59 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 09:48:59 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:48:59 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:48:59 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:49:15 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 09:49:15 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:49:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:49:15 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:49:39 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 09:49:40 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:49:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:49:40 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ProiectPhp\app\controllers\UserController.php on line 13
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP   3. Router->callFunction($newLink = *uninitialized*, $id = *uninitialized*) C:\xampp\htdocs\ProiectPhp\src\Router.php:34
+[10-Dec-2018 09:49:52 Europe/Berlin] PHP   4. UserController->showAction($id = *uninitialized*, $queryString = *uninitialized*) C:\xampp\htdocs\ProiectPhp\src\Router.php:53
+[10-Dec-2018 09:49:53 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 09:49:53 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:49:53 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:49:53 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 09:50:18 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 09:50:18 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 09:50:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 09:50:18 Europe/Berlin] PHP   2. Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:25
+[10-Dec-2018 10:16:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 25
+[10-Dec-2018 10:16:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 25
+[10-Dec-2018 10:16:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 25
+[10-Dec-2018 10:16:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 25
+[10-Dec-2018 10:17:57 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 32
+[10-Dec-2018 10:17:57 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:17:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:17:57 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:18:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'UserController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:53
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(35): Framework\Router->callFunction('/user/{id}', Array)
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(27): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 53
+[10-Dec-2018 10:18:13 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 32
+[10-Dec-2018 10:18:13 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:18:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:18:13 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:24:14 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 32
+[10-Dec-2018 10:24:14 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:24:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:24:14 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:25:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'PageController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:53
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(38): Framework\Router->callFunction('/page/about-us')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(27): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 53
+[10-Dec-2018 10:25:54 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 32
+[10-Dec-2018 10:25:54 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:25:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:25:54 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:32:36 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:32:36 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:32:36 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:32:36 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:33:34 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:33:34 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:33:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:33:34 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:36:49 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:36:49 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:36:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:36:49 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:39:46 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:39:46 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:39:46 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:39:46 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:40:29 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:40:29 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:40:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:40:29 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:41:22 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:41:22 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:41:22 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:41:22 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:42:15 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:42:15 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:42:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:42:15 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:45:51 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 31
+[10-Dec-2018 10:45:51 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:45:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:45:51 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:48:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersPageController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:86
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(31): Framework\Router->callFunction('/page/about-us')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(27): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 86
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:48:57 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:49:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersPageController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:86
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(31): Framework\Router->callFunction('/page/about-us')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(27): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 86
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP Stack trace:
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[10-Dec-2018 10:49:34 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[10-Dec-2018 10:50:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected ''\App\Controllers\'.$numeContr' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 84
+[10-Dec-2018 10:50:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected ''\App\Controllers\'.$numeContr' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 84
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP Notice:  Undefined index: / in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:43:19 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:43:20 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:27
+[12-Dec-2018 12:46:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersPageController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:87
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(31): Framework\Router->callFunction('/page/about-us')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(27): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 87
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersUserController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:86
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(41): Framework\Router->callFunction('/user/{id}', '32')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(30): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 86
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[12-Dec-2018 12:49:16 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:17 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:49:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersUserController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:86
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(41): Framework\Router->callFunction('/user/{id}', '32')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(30): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 86
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:47 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:49:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class '\App\ControllersUserController' not found in C:\xampp\htdocs\ProiectPhp\src\Router.php:86
+Stack trace:
+#0 C:\xampp\htdocs\ProiectPhp\src\Router.php(41): Framework\Router->callFunction('/user/{id}', '32')
+#1 C:\xampp\htdocs\ProiectPhp\public\index.php(30): Framework\Router->checkRoute()
+#2 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 86
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP Stack trace:
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[12-Dec-2018 12:49:49 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[12-Dec-2018 12:50:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Framework\Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 29
+[12-Dec-2018 12:50:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Framework\Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 29
+[12-Dec-2018 12:51:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 29
+[12-Dec-2018 12:51:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Router' not found in C:\xampp\htdocs\ProiectPhp\public\index.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProiectPhp\public\index.php on line 29
+[17-Dec-2018 09:17:27 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:17:27 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP Notice:  Undefined index: / in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:17:28 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:17:29 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:30
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:20:44 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:21:16 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:21:16 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:21:17 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:22:16 Europe/Berlin] PHP Notice:  Undefined index: /page/{id} in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:22:16 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:22:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:22:16 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:22:17 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:22:32 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:22:33 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 38
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 39
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 09:50:52 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 41
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP Notice:  Undefined index: /favicon.ico in C:\xampp\htdocs\ProiectPhp\src\Router.php on line 42
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP Stack trace:
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\ProiectPhp\public\index.php:0
+[17-Dec-2018 10:04:41 Europe/Berlin] PHP   2. Framework\Router->checkRoute() C:\xampp\htdocs\ProiectPhp\public\index.php:29

@@ -6,6 +6,7 @@
  * Time: 11:14 AM
  */
 
+namespace App\Controllers;
 class PageController
 {
     public function aboutUsAction()
